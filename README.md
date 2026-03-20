@@ -1,0 +1,1 @@
+# exemplo_django_3mb_manha_2026.1
